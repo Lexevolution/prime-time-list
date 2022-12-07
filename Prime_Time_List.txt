@@ -1,3 +1,4 @@
+2022-12-06|https://wiki.neos.com/images/4/4d/Prime_Time_2022-12-06.ogg|https://raw.githubusercontent.com/Lexevolution/prime-time-list/main/transcriptions/Prime%20Time%202022-12-06.srt
 2022-11-29|https://wiki.neos.com/images/d/d1/Prime_Time_2022-11-29.ogg|https://raw.githubusercontent.com/Lexevolution/prime-time-list/main/transcriptions/Prime%20Time%202022-11-29.srt
 2022-11-22|https://wiki.neos.com/images/7/77/Prime_Time_2022-11-21.ogg|https://raw.githubusercontent.com/Lexevolution/prime-time-list/main/transcriptions/Prime%20Time%202022-11-22.srt
 2022-11-15|https://wiki.neos.com/images/8/8f/Prime_Time_2022-11-15.ogg|https://raw.githubusercontent.com/Lexevolution/prime-time-list/main/transcriptions/Prime%20Time%202022-11-15.srt
